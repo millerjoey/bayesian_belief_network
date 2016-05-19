@@ -1,3 +1,7 @@
+# ===========================================
+# Packages Used: deal, dplyr, gRain, bnlearn
+# ===========================================
+
 library(dplyr)
 library(bnlearn)
 library(gRain)
